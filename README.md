@@ -18,4 +18,4 @@ All images are copyrighted and are the property of Lior Raz, any use is strictly
 
 All code sources in the portfolio app are opensource under MIT license.
 
-Fork me on GitHub!
+[Fork me on GitHub!](https://github.com/liorazio/portfolio/fork)
